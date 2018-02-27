@@ -1,0 +1,84 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            39:ac:34:a6:cb:c5:90:d7:17:88:ab:ab:7b:e6:05:3d
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=alpface.com
+        Validity
+            Not Before: Feb 27 14:41:31 2018 GMT
+            Not After : Feb 25 14:41:31 2028 GMT
+        Subject: CN=xiaoyuan.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c2:b3:a4:52:2d:eb:52:7f:0c:59:3c:47:ab:38:
+                    0a:21:5f:be:8a:cd:c9:70:0d:8b:4c:3e:42:33:d3:
+                    b5:a8:d1:3e:2f:6d:b7:73:09:98:e0:1b:5d:a6:51:
+                    9c:77:1f:4b:cf:6c:4a:8f:2c:0d:22:d4:dc:b3:94:
+                    fd:e4:c6:bd:27:f8:c3:5e:5b:1c:5f:ca:e9:84:4b:
+                    1b:62:fd:29:5d:db:8a:25:ea:e7:97:ff:8c:04:07:
+                    ba:73:e3:ab:06:96:a8:d0:36:37:ba:92:c1:d0:84:
+                    14:70:b8:0c:9b:84:ad:93:f2:7b:7c:48:d5:34:ee:
+                    40:20:18:a9:b2:e7:3e:d9:f5:22:9f:b4:bd:78:24:
+                    64:6b:d2:5b:cb:a7:73:03:84:ae:fb:e2:70:85:07:
+                    55:67:26:54:1a:14:d5:aa:d7:30:bd:96:8f:06:10:
+                    44:f3:9c:da:a0:24:51:7f:b7:98:a5:87:8f:3e:c6:
+                    a1:8a:79:c8:47:f0:57:19:43:9f:24:2d:34:3f:f7:
+                    bc:30:31:8a:5a:b4:0f:a9:20:22:a0:68:cc:72:b6:
+                    cd:b2:14:dd:59:53:3f:40:c8:c9:12:c7:17:b7:b5:
+                    27:1f:b1:e6:2a:e8:66:88:f8:e4:35:81:d3:96:c3:
+                    8c:0d:32:20:95:69:b1:a0:c6:ea:56:75:1d:79:51:
+                    ed:65
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                2B:B1:A7:26:3D:99:53:BB:BE:89:C7:8C:11:95:39:7F:82:56:D2:91
+            X509v3 Authority Key Identifier: 
+                keyid:8B:72:EA:48:47:5C:F0:74:FA:42:97:7E:8A:00:93:FB:C1:63:11:E6
+                DirName:/CN=alpface.com
+                serial:9A:5F:D9:2A:48:7F:AB:78
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha256WithRSAEncryption
+         81:86:30:d1:cd:65:bb:26:aa:49:d6:8a:2a:9e:c1:b6:ff:d6:
+         ce:3d:9a:a8:2c:e4:cf:05:15:ce:3e:60:03:c4:2c:57:5a:9f:
+         fa:ba:7c:17:5f:5f:81:90:59:75:bc:71:9f:85:00:d2:23:fd:
+         7f:4c:87:90:6b:ae:6e:f5:16:5c:84:06:8b:64:f1:c4:46:ee:
+         04:32:7b:ff:75:3f:a1:6c:fe:d7:f6:6d:9d:02:7b:da:4d:a4:
+         51:3a:b5:9a:f9:b2:c5:e4:60:7e:26:ef:cd:5e:ca:24:9a:ed:
+         6e:d2:0b:8a:07:37:a8:b1:30:f1:06:ea:fa:a3:4f:9a:ef:60:
+         70:1d:bf:06:cd:33:f0:83:63:bb:91:cf:3f:9f:6e:15:3d:c4:
+         93:cb:e9:72:3b:0d:99:11:5b:a1:19:e5:21:2e:ba:11:8f:c2:
+         c8:bc:2a:1c:0c:c8:39:76:fd:16:c3:d8:bb:94:77:f4:7f:7e:
+         ac:cc:c2:1a:8e:04:90:40:b1:04:0d:38:f6:fb:f0:62:8f:89:
+         17:e9:92:75:9f:2d:d3:5a:64:ab:7b:f5:7c:8e:4c:f8:56:47:
+         aa:c5:f6:99:a9:8f:34:45:f9:ac:2f:5a:00:5c:64:7a:a1:04:
+         83:28:64:de:ca:7a:92:ac:f8:76:10:db:81:db:9e:f3:0e:f9:
+         a9:26:da:e3
+-----BEGIN CERTIFICATE-----
+MIIDTzCCAjegAwIBAgIQOaw0psvFkNcXiKure+YFPTANBgkqhkiG9w0BAQsFADAW
+MRQwEgYDVQQDDAthbHBmYWNlLmNvbTAeFw0xODAyMjcxNDQxMzFaFw0yODAyMjUx
+NDQxMzFaMBcxFTATBgNVBAMMDHhpYW95dWFuLmNvbTCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAMKzpFIt61J/DFk8R6s4CiFfvorNyXANi0w+QjPTtajR
+Pi9tt3MJmOAbXaZRnHcfS89sSo8sDSLU3LOU/eTGvSf4w15bHF/K6YRLG2L9KV3b
+iiXq55f/jAQHunPjqwaWqNA2N7qSwdCEFHC4DJuErZPye3xI1TTuQCAYqbLnPtn1
+Ip+0vXgkZGvSW8uncwOErvvicIUHVWcmVBoU1arXML2WjwYQRPOc2qAkUX+3mKWH
+jz7GoYp5yEfwVxlDnyQtND/3vDAxilq0D6kgIqBozHK2zbIU3VlTP0DIyRLHF7e1
+Jx+x5iroZoj45DWB05bDjA0yIJVpsaDG6lZ1HXlR7WUCAwEAAaOBlzCBlDAJBgNV
+HRMEAjAAMB0GA1UdDgQWBBQrsacmPZlTu76Jx4wRlTl/glbSkTBGBgNVHSMEPzA9
+gBSLcupIR1zwdPpCl36KAJP7wWMR5qEapBgwFjEUMBIGA1UEAwwLYWxwZmFjZS5j
+b22CCQCaX9kqSH+reDATBgNVHSUEDDAKBggrBgEFBQcDAjALBgNVHQ8EBAMCB4Aw
+DQYJKoZIhvcNAQELBQADggEBAIGGMNHNZbsmqknWiiqewbb/1s49mqgs5M8FFc4+
+YAPELFdan/q6fBdfX4GQWXW8cZ+FANIj/X9Mh5Brrm71FlyEBotk8cRG7gQye/91
+P6Fs/tf2bZ0Ce9pNpFE6tZr5ssXkYH4m781eyiSa7W7SC4oHN6ixMPEG6vqjT5rv
+YHAdvwbNM/CDY7uRzz+fbhU9xJPL6XI7DZkRW6EZ5SEuuhGPwsi8KhwMyDl2/RbD
+2LuUd/R/fqzMwhqOBJBAsQQNOPb78GKPiRfpknWfLdNaZKt79XyOTPhWR6rF9pmp
+jzRF+awvWgBcZHqhBIMoZN7KepKs+HYQ24HbnvMO+akm2uM=
+-----END CERTIFICATE-----
